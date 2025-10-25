@@ -1,1 +1,63 @@
-# yashira.sb
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My yash</title>
+    <style>
+        body {
+            background-color: #0b1d26;
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+            padding: 40px;
+        }
+
+        h1 {
+            color: #ffcad4;
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 1.3em;
+            line-height: 1.7em;
+            max-width: 800px;
+            margin: 0 auto 50px auto;
+            white-space: pre-line;
+        }
+
+        img {
+            width: 60%;
+            max-width: 600px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <h1>Te quiero</h1>
+
+    <p>
+Hola yash, acabo de crear una página web para poder decirte que te quiero demasiado. 
+No imaginas cuanto y es tal magnitud que ni siquiera yo podría haber imaginado este sentimiento 
+en la cantidad de tiempo que llevamos hablando. Sé que estos días no han sido buenos pero confía en mí 
+cuando te digo que todo va a mejorar, todavía quedan cosas buenas por pasar y tú te mereces todo lo bueno 
+que vendrá, solo tienes que ser paciente y de verdad lo siento mucho por lo mal que te hacen sentir 
+las situaciones que te ocurren últimamente. 
+
+Recuerda que literalmente siempre estoy aquí para ti, sea a la hora que sea y siempre voy a querer estar aquí, 
+eres una persona muy increíble y me encanta que seas tú con cada una de esas partes que puedo ver. 
+Confío con el pasar del tiempo poder ver el resto de ti y quererte el doble en esas partes que ahora duelen pero, 
+por ahora estoy aquí. Prometo dar todo de mí como pueda para poder aunque sea animarte un poco, 
+lo siento por no haber sido suficiente algunas de esas cosas que intenté pero, prometo intentarlo de mucha mejor forma. 
+
+Te quiero demasiado yash.
+
+Pd: Mira, las constelaciones del día y la hora a la que nos conocimos.
+    </p>
+
+    <img src="1f0e61e8-2a72-41a0-bb5f-8c088d9f1fff.png" alt="Mapa estelar">
+</body>
+</html>
